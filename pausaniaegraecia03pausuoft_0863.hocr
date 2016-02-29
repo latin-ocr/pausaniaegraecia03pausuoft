@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pausaniaegraecia03pausuoft_0863.png"; bbox 0 0 1676 3172; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 279 1343 1474 1551">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 279 1343 1474 1551">
+     <span class='ocr_line' id='line_1_1' title="bbox 461 1343 1291 1450; baseline 0.002 -16"><span class='ocrx_word' id='word_1_1' title='bbox 461 1343 708 1450; x_wconf 61' lang='grc' dir='ltr'><strong>ΡιεΑςξ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 732 1370 829 1436; x_wconf 78' lang='lat' dir='ltr'>no</span> <span class='ocrx_word' id='word_1_3' title='bbox 854 1383 995 1436; x_wconf 75' lang='grc' dir='ltr'>κστ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1014 1359 1291 1445; x_wconf 55' lang='lat' dir='ltr'>&#39;Remove</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 279 1462 1474 1551; baseline 0 -9"><span class='ocrx_word' id='word_1_5' title='bbox 279 1487 506 1542; x_wconf 57' lang='lat' dir='ltr'>caunos</span> <span class='ocrx_word' id='word_1_6' title='bbox 523 1489 616 1542; x_wconf 75' lang='lat' dir='ltr'>on</span> <span class='ocrx_word' id='word_1_7' title='bbox 633 1488 817 1543; x_wconf 57' lang='lat' dir='ltr'>suus</span> <span class='ocrx_word' id='word_1_8' title='bbox 832 1489 1020 1543; x_wconf 67' lang='lat' dir='ltr'>mou</span> <span class='ocrx_word' id='word_1_9' title='bbox 1035 1462 1188 1551; x_wconf 66' lang='lat' dir='ltr'>nius</span> <span class='ocrx_word' id='word_1_10' title='bbox 1205 1491 1474 1543; x_wconf 75' lang='grc' dir='ltr'>Ροοκετ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 280 1672 1471 1758">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 280 1672 1471 1758">
+     <span class='ocr_line' id='line_1_3' title="bbox 280 1672 1471 1758; baseline 0 -12"><span class='ocrx_word' id='word_1_11' title='bbox 280 1672 671 1758; x_wconf 64' lang='grc' dir='ltr'>υκινεηειτν</span> <span class='ocrx_word' id='word_1_12' title='bbox 707 1694 795 1747; x_wconf 69' lang='grc' dir='ltr'>οε</span> <span class='ocrx_word' id='word_1_13' title='bbox 827 1695 1159 1748; x_wconf 69' lang='lat' dir='ltr'><strong>maome</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1193 1697 1471 1746; x_wconf 59' lang='lat' dir='ltr'><strong>uanam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1676 3172">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1676 3172">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1676 3172; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1676 3172; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
